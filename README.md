@@ -1,4 +1,4 @@
-# 📦 Inventory Revenue Risk Analysis (SQL, Power BI)
+# Inventory Revenue Risk Analysis (SQL, Power BI)
 
 **Date:** September 12, 2025  
 **Prepared By:** Ravula Preethi  
